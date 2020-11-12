@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.8.1)
+  - iOSDropDown (0.3.4)
+  - IQKeyboardManagerSwift (6.2.0)
+  - KYDrawerController (2.1.0)
+  - SVProgressHUD (2.2.5)
+  - UICheckbox (0.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - iOSDropDown
+  - IQKeyboardManagerSwift
+  - KYDrawerController
+  - SVProgressHUD
+  - UICheckbox
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - iOSDropDown
+    - IQKeyboardManagerSwift
+    - KYDrawerController
+    - SVProgressHUD
+    - UICheckbox
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  KYDrawerController: baad0e63b09c0cb564bd48f0f7f70f45d9176ebc
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  UICheckbox: 54af9bc308c8c2b18404f4c360172115c0daea36
+
+PODFILE CHECKSUM: be142a738224c80d05bbf412116e4ab7092ed2fd
+
+COCOAPODS: 1.8.4

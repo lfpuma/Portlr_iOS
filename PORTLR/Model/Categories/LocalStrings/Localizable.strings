@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  SuperMarketApp
+
+  Created by Hunain on 06/02/2017.
+  Copyright © 2017 MCIT. All rights reserved.
+*/
+//MARK: Error Messages
+"alert_error_title" = "Error";
+"ok_button_title" = "OK";
+"alert_app_name" = "PORTLR";
+
+//MARK: Error Codes - Generic
+"error_400" = "Something went wrong";
+
+//MARK: Validations
+"validation_empty_URL"                      = "URL field required";
+"validation_empty_email"                    = "Email field required";
+"validation_valid_email"                    = "Valid email field required";
+"validation_empty_password"                 = "Password field required";
+"validation_select_company_name"            = "Please select company name";
+"no_project_found"                          = "No projects found for this client";
+"time_already_registered_sucessfully"       = "Your time is already registered";
+"time_registered_sucessfully"               = "Your time is registered successfully";
+"time_updated_sucessfully"               = "Your time is updated successfully";
+"call_registered_sucessfully"               = "Your call is registered successfully";
+"registered_successfully"                   = "Registered successfully";
+"today_time_already_registered_sucessfully"       = "Your time is already registered, today";
+
+
+//MARK: No Network
+//English
+"no_network_alert_title"                    = "Network Error";
+"no_network_alert_description"              = "Establish Internet connection to resume interaction with the app.";
+
+//MARK: Camera
+"camer_not_available"                       = "Camera not avaiable in current device!";
+
+//MARK: REGISTRATION LOG
+"select_project"                            = "Please select a project";
+"select_task"                               = "Please select a task";
+"select_time"                               = "Please input correct times";
+"select_time_correct"                       = "Hours type should be hh:mm";
+
+"question_image_meaning"                    = "You can enter 15 minutes by writing 0015, or one hour just by writing 1";
+
+
+"call_log_already_registered"               = "This call is already registered";
+
+//MARK: QUESTIONS
+
+"question_call_logger"                      = "Call logger will registrate time spent on phone calls, within selected start end work period.";
+"question_check"                            = "You will receive a notification if you have not checked-in or out within the selected typical work period.";
+"question_set_timer"                        = "If the timer is selected as a start page then you will see check-in and out when you open Portlr APP as the default page.";
+"question_workday"                          = "Selected workdays, default project and start / end time is used for when the app should track calls if that is enabled + when notifications will be shown. The default project is the project that check-in and out will be logged on.";
+"question_location"                         = "Check out based on location shows a notification if you leave your work location and have not checked out";
